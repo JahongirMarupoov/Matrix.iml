@@ -20,7 +20,7 @@ public class Matrix83 {
         int lastRowIndex = matrix.length - 1;
         for (int i = 0; i < matrix.length; i++) {
             sum += matrix[lastRowIndex - i][i];
-        }dfddfdsssfddssf
+        }
         return sum;
     }
 }
